@@ -1,0 +1,28 @@
+name: 💬 General Feedback
+description: Ask a question or share any other feedback about TokenRun.
+title: "[Feedback] "
+labels: ["question", "triage"]
+body:
+  - type: textarea
+    id: message
+    attributes:
+      label: Your Message
+      description: Write your question, comment, or feedback.
+    validations:
+      required: true
+
+  - type: input
+    id: app-version
+    attributes:
+      label: App Version (optional)
+      placeholder: e.g. 1.2.3
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: This message contains no personal information (email, phone, payment details, etc.).
+          required: true

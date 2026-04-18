@@ -2,9 +2,7 @@
 
 Website: **[token-run.com](https://token-run.com)**
 
-This repository is the official channel for collecting **issue reports and suggestions** from TokenRun users.
-
-Source code is not published here — this repo is dedicated to **bug reports, feature requests, and general feedback**.
+This repository is the official channel for **distribution and user feedback** — download the latest app from the [Releases](../../releases) tab, or open an issue for bug reports and feature requests.
 
 ## How to Participate
 

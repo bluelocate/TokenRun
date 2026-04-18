@@ -58,7 +58,7 @@ body:
     id: device
     attributes:
       label: Device / OS
-      placeholder: e.g. iPhone 15 Pro, iOS 18.2
+      placeholder: e.g. MacBook Pro M3, macOS 14.5 (Sonoma)
     validations:
       required: false
 

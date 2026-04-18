@@ -15,7 +15,7 @@ body:
     id: app-version
     attributes:
       label: App Version (optional)
-      placeholder: e.g. 1.2.3
+      placeholder: e.g. 1.2.3 on macOS 14.5
     validations:
       required: false
 
